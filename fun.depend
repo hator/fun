@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1321980008 source:c:\users\johnny\documents\programowanie\fun\src\tokenizer.cpp
+	"Tokenizer.h"
+
+1321980008 .h"
+
+1321978532 c:\users\johnny\documents\programowanie\fun\src\tokenizer.h
+	<string>
+	"Token.h"
+
+1321995376 
+
+1321995376 c:\users\johnny\documents\programowanie\fun\src\token.h
+	<string>
+
+1321995283 source:c:\users\johnny\documents\programowanie\fun\main.cpp
+	<iostream>
+	<string>
+	"src/Tokenizer.h"
+
+1321995283 izer.h"
+
+1322172342 source:/media/PENDRIVE/fun/main.cpp
+	<sstream>
+	<iostream>
+	<fstream>
+	<string>
+	"src/Tokenizer.h"
+
+1322172342 /media/PENDRIVE/fun/src/Tokenizer.h
+	<sstream>
+	<string>
+	"Token.h"
+
+1322172342 /media/PENDRIVE/fun/src/Token.h
+	<string>
+
+1322172342 source:/media/PENDRIVE/fun/src/Tokenizer.cpp
+	"Tokenizer.h"
+
+1322149781 source:/home/johnny/fun/main.cpp
+	<sstream>
+	<iostream>
+	<fstream>
+	<string>
+	"src/Tokenizer.h"
+
+1322159068 /home/johnny/fun/src/Tokenizer.h
+	<sstream>
+	<string>
+	"Token.h"
+
+1322033316 /home/johnny/fun/src/Token.h
+	<string>
+
+1322159129 source:/home/johnny/fun/src/Tokenizer.cpp
+	"Tokenizer.h"
+
+1322172342 source:/home/k11_c/hator/fun/main.cpp
+	<sstream>
+	<iostream>
+	<fstream>
+	<string>
+	"src/Tokenizer.h"
+
+1322172342 /home/k11_c/hator/fun/src/Tokenizer.h
+	<sstream>
+	<string>
+	"Token.h"
+
+1322172342 /home/k11_c/hator/fun/src/Token.h
+	<string>
+
+1322172342 source:/home/k11_c/hator/fun/src/Tokenizer.cpp
+	"Tokenizer.h"
+
+1322209374 source:/home/k11_c/hator/fun/src/Parser.cpp
+	"Parser.h"
+
+1322211044 /home/k11_c/hator/fun/src/Parser.h
+	<sstream>
+	"Expression.h"
+	"Tokenizer.h"
+
+1322209540 source:/home/k11_c/hator/fun/src/Expression.cpp
+	"Expression.h"
+
+1322209579 /home/k11_c/hator/fun/src/Expression.h
+
