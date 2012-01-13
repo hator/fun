@@ -45,15 +45,13 @@
 	<string>
 	"src/Tokenizer.h"
 
-1322159068 /home/johnny/fun/src/Tokenizer.h
-	<sstream>
-	<string>
+1326489775 /home/johnny/fun/src/Tokenizer.h
+	"main.h"
 	"Token.h"
 
-1322033316 /home/johnny/fun/src/Token.h
-	<string>
+1326489777 /home/johnny/fun/src/Token.h
 
-1322159129 source:/home/johnny/fun/src/Tokenizer.cpp
+1322211346 source:/home/johnny/fun/src/Tokenizer.cpp
 	"Tokenizer.h"
 
 1322172342 source:/home/k11_c/hator/fun/main.cpp
@@ -86,4 +84,29 @@
 	"Expression.h"
 
 1322209579 /home/k11_c/hator/fun/src/Expression.h
+
+1322211346 source:/home/johnny/fun/src/Parser.cpp
+	"Parser.h"
+
+1326489820 /home/johnny/fun/src/Parser.h
+	"main.h"
+	"Expression.h"
+	"Tokenizer.h"
+
+1326489798 /home/johnny/fun/src/main.h
+	<string>
+	<sstream>
+	<iostream>
+	<fstream>
+	<map>
+
+1326490940 /home/johnny/fun/src/Expression.h
+	"main.h"
+
+1326489811 source:/home/johnny/fun/src/main.cpp
+	"main.h"
+	"Tokenizer.h"
+
+1326490928 source:/home/johnny/fun/src/Expression.cpp
+	"Expression.h"
 

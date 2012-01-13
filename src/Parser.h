@@ -1,7 +1,8 @@
 #ifndef PARSER_H
 #define PARSER_H
 
-#include <sstream>
+#include "main.h"
+
 #include "Expression.h"
 #include "Tokenizer.h"
 

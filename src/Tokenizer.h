@@ -1,8 +1,7 @@
 #ifndef TOKENIZER_H
 #define TOKENIZER_H
 
-#include <sstream>
-#include <string>
+#include "main.h"
 #include "Token.h"
 
 class Tokenizer

@@ -1,7 +1,4 @@
-#include <sstream>
-#include <iostream>
-#include <fstream>
-#include <string>
+#include "main.h"
 
 #include "Tokenizer.h"
 

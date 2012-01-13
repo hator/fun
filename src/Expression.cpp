@@ -1,11 +1,9 @@
 #include "Expression.h"
 
-Expression::Expression()
-{
-    //ctor
-}
+Constant::Constant(float _v) : value(_v)
+{}
 
-Expression::~Expression()
+float Constant::Eval()
 {
-    //dtor
+    return value;
 }

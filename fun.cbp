@@ -40,6 +40,7 @@
 		<Unit filename="src/Tokenizer.cpp" />
 		<Unit filename="src/Tokenizer.h" />
 		<Unit filename="src/main.cpp" />
+		<Unit filename="src/main.h" />
 		<Extensions>
 			<code_completion />
 			<debugger />
